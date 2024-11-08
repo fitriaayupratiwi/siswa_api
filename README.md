@@ -11,3 +11,6 @@ CRUD
 ![get berdasarkan id 1](image-4.png)
 ![put](image-5.png)
 ![delete](image-6.png)
+
+Tugas Tambahan
+![get](image-7.png)
