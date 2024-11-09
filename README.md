@@ -13,4 +13,5 @@ CRUD
 ![delete](image-6.png)
 
 Tugas Tambahan
-![get](image-7.png)
+![post](image-8.png)
+![hasil](image-9.png) tidak masuk di database karena tidak memenuhi validasi
